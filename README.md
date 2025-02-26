@@ -26,11 +26,11 @@ When I’m not coding, you’ll find me on a road trip exploring new places or t
 
 ### Killer Mile Website
 - **URL:** [https://killermile.com/](https://killermile.com/)
-- **Description:** Developed the official website for the Mow Cop Killer Mile, a renowned uphill race featuring a 570-foot climb with gradients up to 25%. The site provides event details, registration information, and race results. :contentReference[oaicite:0]{index=0}
+- **Description:** Developed the official website for the Mow Cop Killer Mile, a renowned uphill race featuring a 570-foot climb with gradients up to 25%. The site provides event details, registration information, and race results.
 
 ### Chaffinch Document Website
 - **URL:** [https://chaffinch.com/](https://chaffinch.com/)
-- **Description:** Created a comprehensive website for Chaffinch, a document management solutions provider. The platform offers information on services like document storage, scanning, shredding, and AI-powered automation. :contentReference[oaicite:1]{index=1}
+- **Description:** Created a comprehensive website for Chaffinch, a document management solutions provider. The platform offers information on services like document storage, scanning, shredding, and AI-powered automation.
 
 ## 🏆 Interests
 - 🌍 Road trips & travel
