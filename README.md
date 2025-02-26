@@ -18,7 +18,7 @@ I care deeply about creating websites that are world-class, useful, and user-cen
 - **IDE of choice:** VSCode
 
 ## 💡 About Me
-I specialize in frontend development and design, primarily focusing on WordPress. Lately, I’ve ventured into React and AI-driven coding, where I combine my coding skills with artificial intelligence to build apps more efficiently. AI is a powerful tool for amplifying my development efforts, but I believe in the importance of owning the code I create—hence why I avoid no-code tools like Bubble.
+I specialize in frontend development and design, primarily focusing on WordPress. Lately, I’ve ventured into React and AI-driven coding, where I combine my coding skills with artificial intelligence to build apps more efficiently. AI is a powerful tool for amplifying my development efforts, but I believe in the importance of owning the code I create—so I prefer tools that give me full ownership and flexibility.
 
 When I’m not coding, you’ll find me on a road trip exploring new places or tackling DIY projects. I love solving problems and finding creative solutions to challenges, whether in technology or in everyday life.
 
